@@ -1,0 +1,38 @@
+.list_wrapper {
+   width: 100%;
+   padding: 20px 0 20px 0;
+   margin: 0 auto;
+   border: 1px solid red;
+   position: sticky;
+   top: 0;
+   background-color: #00004d;
+}
+
+.list {
+   display: flex;
+   justify-content: space-around;
+   margin: 0;
+   padding: 0;
+   list-style: none;
+}
+
+.list_item {
+   width: 15%;
+   border: 1px solid black;
+   background-color: rgba(121, 9, 108, 1);
+}
+
+.list_item a {
+   font-size: 17px;
+   color: #00004d;
+   margin: 0 auto;
+   padding: 0;
+   text-align: center;
+   display: block;
+   text-decoration: none;
+   padding: 15px;
+}
+
+.list_item a:hover {
+   color: white;
+}

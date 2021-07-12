@@ -1,0 +1,18 @@
+.section_wrapper {
+   padding: 0;
+   width: 90%;
+   padding: 10px;
+   border: 1px solid green;
+   margin: 0 auto;
+   margin-top: 20px;
+}
+
+.section_wrapper h2,
+h3 {
+   padding: 10px 10px 0 10px;
+}
+
+.section_wrapper p {
+   font-size: 15px;
+   padding: 10px;
+}
