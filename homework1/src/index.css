@@ -10,6 +10,8 @@ body {
       rgba(121, 9, 108, 1) 45%,
       rgba(44, 49, 150, 1) 68%
    );
+   background-repeat: no-repeat;
+   background-size: cover;
 }
 
 code {
